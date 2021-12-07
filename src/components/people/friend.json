@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_people_friends",
+  "info": {
+    "displayName": "Friend",
+    "icon": "angry",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "media_info": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.item"
+    }
+  }
+}

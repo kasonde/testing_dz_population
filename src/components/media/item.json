@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_media_items",
+  "info": {
+    "displayName": "Item",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
